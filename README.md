@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakhar272006
 - 👀 I’m interested in ...web and app development
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...MERN stack
 - 💞️ I’m looking to collaborate on ...basic projects
 - 📫 How to reach me ...mail: gurjardrhariom@gmail.com
 
